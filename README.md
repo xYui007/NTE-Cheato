@@ -87,6 +87,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Quest Teleport (Nearest Objective)
 - Enemy Teleport (Nearest Target)
 - Teleport to Chest
+- Race Teleport
 - Teleport to Oracle Stone
 
 ---
@@ -102,6 +103,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Infinite Energy (Infinite Burst)
 - No Cooldown (Standard Skills)
 - Infinite Buffs (Never Expire)
+- Awaken Unlock
 - Infinite Skill/Ultimate Spam (Advanced Path)
 
 ---
