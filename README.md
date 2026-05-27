@@ -99,6 +99,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Auto Cutscene Skip
 - Pink Paw Automation
 - Auto Fish (Full Automation)
+- Auto Rhythm (Mini-game Automation)
 - Auto Quest (Automated Submission)
 - Infinite Energy (Infinite Burst)
 - No Cooldown (Standard Skills)
@@ -111,6 +112,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 ### :red_car: Vehicle Mods
 - Vehicle Spawner
 - No Speed Limit
+- Infinite Nitrous
 - Max Traction (Friction Mod)
 - Max Torque (Engine Power)
 - Max RPM (Rotation Speed)
