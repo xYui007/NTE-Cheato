@@ -44,6 +44,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 
 ### :crossed_swords: Combat
 - God Mode
+- Infinite Healing
 - Kill Aura
 - One Hit Kill
 - Mob Vacuum
@@ -76,6 +77,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Global Time Scale
 - Infinite Jumps
 - Infinite Stamina
+- No Dash Cooldown
 
 ---
 
@@ -103,6 +105,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Auto Quest (Automated Submission)
 - Infinite Energy (Infinite Burst)
 - No Cooldown (Standard Skills)
+- Buff Manager (Multi-Buff Injector with Search & Presets)
 - Infinite Buffs (Never Expire)
 - Awaken Unlock
 - Infinite Skill/Ultimate Spam (Advanced Path)
