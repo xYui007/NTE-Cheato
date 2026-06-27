@@ -121,6 +121,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Max RPM (Rotation Speed)
 - Turning Radius (Max Steer Angle)
 - Vehicle Mass (Weight Override)
+- Invincible Vehicle / No Damage
 
 ---
 
