@@ -54,12 +54,14 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Multi-Hit (Custom Multiplier)
 - Attack Speed
 - No Crime (Anti-Police)
+- Auto Combat
 
 ---
 
 ### :eye: Visuals
 - Active Features Overlay
 - ESP (Universal)
+- Interactive Map (Map radar with actor filtering & click-to-teleport)
 - FOV Override
 - FPS Unlocker
 - Skin Changer
@@ -97,6 +99,7 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 ### 🧰 Utility & Config
 - Config Manager (Save/Load Profiles)
 - Disable All Features (Instant Master Reset)
+- Auto Map Reveal (Reveal all fog & icons on the world map)
 - Auto Dialogue Skip
 - Auto Cutscene Skip
 - Pink Paw Automation
@@ -109,6 +112,8 @@ Want to run GameBanana custom skins/mods alongside GHOST NTE? You can now use th
 - Infinite Buffs (Never Expire)
 - Awaken Unlock
 - Infinite Skill/Ultimate Spam (Advanced Path)
+- Max Ability Level
+- Infinite Ability Points
 
 ---
 
